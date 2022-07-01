@@ -1,0 +1,12 @@
+login.json
+login_CxSession.json
+login_uat.json
+notes_output.json
+pd_call.py
+pyvenv.cfg
+Session.py
+Session2.py
+UAT_test.py
+.venv
+.vscode
+.python-version
